@@ -49,4 +49,16 @@ III. Tensorboard
   2. Go to your webbrowser and type the address:
   
     localhost:6006
-  
+ 
+IV. EXAMPLES
+  1. Linear Regression
+  a) Find a linear relationship between X and Y to predict Y from X.  Model the linear relationship between:
+  dependent variable Y
+  explanatory variables X
+
+  b) Dataset: X: birth rate
+  Y: life expectancy
+  190 countries
+
+
+
