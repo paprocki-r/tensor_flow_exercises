@@ -28,7 +28,7 @@ I. Create virtual environment
 
   b) in terminal type
   
-    pip install -r /path/to/requirements.txt
+    pip install -r requirements.txt
 
   It will download and install all packages required in requirements.txt file
     
